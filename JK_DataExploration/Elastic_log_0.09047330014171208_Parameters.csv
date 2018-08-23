@@ -1,0 +1,8 @@
+ParameterName,ParameterValue
+ratio,1
+eps,0.001
+n_alphas,5000
+kfolds,10
+fit_intercept,True
+normalize,False
+logOfTrain,1
