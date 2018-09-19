@@ -6,4 +6,4 @@ These are scripts and notebooks we used when we participated this [Kaggle Compet
 
 Here are the [slides](https://docs.google.com/presentation/d/1-o_-9aOFw8_4Z-Ot67uVDXKKeSa6nwReUAr8FLWFn7o/edit?ts=5b82cd0f#slide=id.g3ffb0c3472_3_40) to introduce our methodology. 
 
-More detailed version can be found in this [blog].
+More detailed version can be found in this [blog](https://nycdatascience.com/blog/student-works/key-learnings-from-predicting-housing-prices/).
